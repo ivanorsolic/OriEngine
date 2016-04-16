@@ -14,7 +14,7 @@ Directory strucutre:
         ├───engineTester
         └───renderEngine
 ```
-OriEngine/src/ <-- Contains the interesting files :)
+[OriEngine/src/](https://github.com/ivanorsolic/OriEngine/tree/master/OriEngine/src) <-- Contains the interesting files :)
 
-OriEngine/lib/ <-- Contains [LWJGL2](https://github.com/LWJGL/lwjgl3) jars and natives
+[OriEngine/lib/](https://github.com/ivanorsolic/OriEngine/tree/master/OriEngine/lib) <-- Contains [LWJGL2](https://github.com/LWJGL/lwjgl3) jars and natives
 
