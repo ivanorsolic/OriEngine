@@ -1,6 +1,8 @@
 # OriEngine
 Game engine made with Lightweight Java Game Library and OpenGL 3.2
+
 All of the important shitz are in the [Wiki!](https://github.com/ivanorsolic/OriEngine/wiki)
+
 Directory strucutre:
 ```
 └───OriEngine
