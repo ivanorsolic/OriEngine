@@ -5,7 +5,9 @@ Game engine made with Lightweight Java Game Library and OpenGL 3.2
 There you can find:
 * [**Progress Tracker**](https://github.com/ivanorsolic/OriEngine/wiki/About#progress-tracker)
 * [**The Code Explained**](https://github.com/ivanorsolic/OriEngine/wiki/The-Code-Explained)
-* And the [**To-Do list**](https://github.com/ivanorsolic/OriEngine/wiki/About#to-do-list)
+* The [**To-Do list**](https://github.com/ivanorsolic/OriEngine/wiki/About#to-do-list)
+* The [**List of classes**](https://github.com/ivanorsolic/OriEngine/wiki/About#list-of-classes) and [**Packages**](https://github.com/ivanorsolic/OriEngine/wiki/About#list-of-packages)
+* and many more
 
 Directory strucutre:
 ```
