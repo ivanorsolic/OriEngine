@@ -20,3 +20,26 @@ Directory strucutre:
 
 [OriEngine/lib/](https://github.com/ivanorsolic/OriEngine/tree/master/OriEngine/lib) <-- Contains [LWJGL2](https://github.com/LWJGL/lwjgl3) jars and natives
 
+To Do list:
+- [ ] a task list item
+- [ ] list syntax required
+
+- Display
+- VAOs and VBOs - Rendering a quad
+- Rendering using glDrawElements
+- Shader introduction
+- Coloring using shaders
+- Texturing
+- Matrices, moving and rotating
+- Loading 3D OBJ models
+- Lighting I
+- Lighting II
+- Optimizations
+- Transparency
+- Fog
+- Multitexturing
+- Player Movement
+- 3rd Person Camera
+- Mipmapping
+- Terrain Generation
+- Terrain Collision Detection
