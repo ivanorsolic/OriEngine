@@ -1,4 +1,4 @@
-package com.oriengine.renderEngine;
+package com.oriengine.models;
 
 public class RawModel {
 

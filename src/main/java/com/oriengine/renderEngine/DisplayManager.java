@@ -14,8 +14,10 @@ public class DisplayManager {
 	private static final int FPS_CAP = 120;
 	
 	public static void createDisplay(){
-		
-		ContextAttribs attribs = new ContextAttribs(3,2).withForwardCompatible(true).withProfileCore(true);
+
+		ContextAttribs attribs = new ContextAttribs(3, 2)
+				.withForwardCompatible(true)
+				.withProfileCore(true);
 		
 		try {
 			
@@ -35,6 +37,8 @@ public class DisplayManager {
 	}
 	
 	public static void closeDisplay(){
+
 		Display.destroy();
-		}
+
+	}
 }
