@@ -12,15 +12,14 @@ There you can find:
 Directory strucutre:
 ```
 └───OriEngine
-    ├───bin
-    │   ├───engineTester
-    │   └───renderEngine
-    ├───lib
-    │   ├───jars
-    │   └───natives
     └───src
         ├───engineTester
-        └───renderEngine
+        ├───entities
+        ├───models
+        ├───renderEngine
+        ├───shaders
+        ├───textures
+        └───toolbox
 ```
 [OriEngine/src/](https://github.com/ivanorsolic/OriEngine/tree/master/OriEngine/src) <-- Contains the interesting files :)
 
