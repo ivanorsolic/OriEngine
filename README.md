@@ -1,7 +1,7 @@
 # OriEngine
 Game engine made with Lightweight Java Game Library and OpenGL 3.2
 
-**All of the important shitz are in the [Wiki!](https://github.com/ivanorsolic/OriEngine/wiki)** which you should check out.
+**All of the important stuff is in the [Wiki!](https://github.com/ivanorsolic/OriEngine/wiki)** which you should check out.
 There you can find:
 * [**Progress Tracker**](https://github.com/ivanorsolic/OriEngine/wiki/About#progress-tracker)
 * [**The Code Explained**](https://github.com/ivanorsolic/OriEngine/wiki/The-Code-Explained)
