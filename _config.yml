@@ -1,0 +1,8 @@
+title: Oriengine
+description: Game engine made with Lightweight Java Game Library
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
